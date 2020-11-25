@@ -1,0 +1,192 @@
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  color: #00dbdc;
+  font-weight: 800;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #004e5d;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 100%;
+}
+
+.bts {
+  position: absolute;
+  top: 23px;
+  left: 26px;
+  width: 70px;
+  height: 30px;
+}
+
+.hamburger_menu {
+  position: absolute;
+  top: 24px;
+  left: 1222px;
+  width: 30px;
+  height: 30px;
+}
+
+.hamburger_menu svg {
+  width: 30px;
+  height: 30px;
+}
+
+.main_logo svg {
+  width: 254px;
+  height: 254px;
+  position: absolute;
+  top: 175px;
+  left: 503px;
+  border-radius: 50%;
+}
+
+.siargao_august {
+  position: absolute;
+  top: 503px;
+  left: 493px;
+  width: 285px;
+  height: 50px;
+}
+
+.five_logo {
+  position: absolute;
+  top: 608px;
+  left: 495px;
+  width: 290px;
+  height: 50px;
+}
+
+.palma {
+  position: absolute;
+  top: 750px;
+  left: 140px;
+  width: 132px;
+  height: 58px;
+}
+
+.main_text {
+  position: absolute;
+  top: 760px;
+  left: 285px;
+  width: 648px;
+  height: 433px;
+}
+
+.text1 {
+  position: absolute;
+  top: 1252px;
+  left: 290px;
+  width: 700px;
+  height: 311px;
+}
+
+.text1 p::first-letter {
+  font-family: "Montserrat", sans-serif;
+  font-size: 72px;
+  color: #00dbdc;
+}
+
+.imgtext1 {
+  position: absolute;
+  top: 2106px;
+  left: 37px;
+  width: 700px;
+  height: 18px;
+  z-index: 12;
+}
+
+.imgtext1 h4 {
+  font-family: "Open Sans", sans-serif;
+  color: #909090;
+  font-size: 14px;
+  z-index: 12;
+}
+
+.main_text2 {
+  position: absolute;
+  top: 2178px;
+  left: 292px;
+  width: 198px;
+  height: 162px;
+  z-index: 12;
+}
+
+.text2 {
+  position: absolute;
+  top: 2393px;
+  left: 290px;
+  width: 700px;
+  height: 806px;
+  z-index: 12;
+}
+
+.text2 p {
+  margin-bottom: 20px;
+  z-index: 12;
+}
+
+.main_text3 {
+  position: absolute;
+  top: 3903px;
+  left: 290px;
+  width: 500px;
+  height: 107px;
+  z-index: 12;
+}
+
+.text3 {
+  position: absolute;
+  top: 4066px;
+  left: 290px;
+  width: 700px;
+  height: 366px;
+  z-index: 12;
+}
+
+.main_text4 {
+  position: absolute;
+  top: 4517px;
+  left: 290px;
+  width: 410px;
+  height: 107px;
+  z-index: 12;
+}
+
+.text4 {
+  position: absolute;
+  top: 4682px;
+  left: 290px;
+  width: 700px;
+  height: 402px;
+  z-index: 12;
+}
+
+.imgtext2 {
+  position: absolute;
+  top: 5950px;
+  left: 37px;
+  width: 700px;
+  height: 18px;
+  z-index: 12;
+}
+
+.imgtext2 h4 {
+  font-family: "Open Sans", sans-serif;
+  color: #909090;
+  font-size: 14px;
+  z-index: 12;
+}
+
+.content {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=content.css.map */

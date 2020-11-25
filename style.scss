@@ -1,0 +1,104 @@
+//colors
+
+$blue: #00dbdc;
+$yellow: #f8ffb8;
+$textcolor: #004e5d;
+$imgtext: #909090;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 100%;
+ }
+
+.background_container {
+  margin: 0 auto;
+  position: relative;
+  top:0;
+  left:0;
+  
+  .border {
+    position: absolute;
+    z-index: 5;
+    top:0px;
+    left: 0px;
+    width: 1280px;
+    height: 6037px;
+  }
+  
+  .header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width:1280px;
+    height: 1060px;
+    
+    svg img{
+      width:1280px;
+      height: 1060px;
+    }
+  }
+  .gradient{
+    position: absolute;
+    top:310px;
+    left:0px;
+    width: 1280px;
+    height: 1095px;
+  }
+
+  .firstpicture{
+    position: absolute;
+    top:1407px;
+    left: 0;
+    width: 1280px;
+    height: 680px;
+    z-index: 2;
+  }
+
+  .upperwave{
+    position: absolute;
+    top: 1927px;
+    left: 0px;
+    width: 1280px;
+    height: 1137px;
+    z-index: 1;
+    
+  }
+
+  .map{
+    position: absolute;
+    top: 3035px;
+    left: 0;
+    width:1280px;
+    height:820px;
+    z-index: 0;
+    
+  }
+
+  .lowerwave {
+    position: absolute;
+    top: 3830px;
+    left: 0px;
+    width: 1280px;
+    height: 2207px;
+    z-index: 1;
+    
+  }
+
+  .secondpicture {
+    z-index: 2;
+    position: absolute;
+    top: 5250px;
+    left: 0;    
+    width: 1280px;
+        
+     }
+
+}
